@@ -1,0 +1,6 @@
+{
+  "name": "Harvest Direct",
+  "description": "Connect directly with local farmers and fresh produce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
